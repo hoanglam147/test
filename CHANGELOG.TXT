@@ -1,0 +1,26 @@
+=== TestMatrix ===
+=== .NET platform ===
+
+== Version 1.3.0.0 ==
+released:  2 Dec 2015
+
+[StC]		Change: First draft release for internal evaluation
+
+===============================================================================
+Legend
+	[XYZ]		Acronym of the author
+	MRXXXX		See Quality Center, Domain: USS, Project: Matrix
+	Fix/New/Change	Type of modification	
+	INT		Interface version
+	IMP		Implementation version
+
+===============================================================================
+Entry example
+
+== Version (Interface n.xx.yy) IMP n.zz ==
+For DaVinci Platform Tms320Dm648
+released:  day month year
+
+ * [XYZ]	Fix/New/Change:
+ * [XYZ]	Fix/New/Change:
+ 
